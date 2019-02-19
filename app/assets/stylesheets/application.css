@@ -32,10 +32,10 @@ h1 {
     color: #f88379;
     text-align: center;
     text-shadow:
-		-0.5px -0.5px 0 #efedce,
-		0.5px -0.5px 0 #efedce,
-		-0.5px 0.5px 0 #efedce,
-		0.5px 0.5px 0 #efedce;
+	-1px -1px 0 #efedce,
+	1px -1px 0 #efedce,
+	-1px 1px 0 #efedce,
+	1px 1px 0 #efedce;
     text-transform: uppercase;
     letter-spacing: .5em;
     position: absolute;

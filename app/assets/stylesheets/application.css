@@ -22,25 +22,29 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+
 }
 
 
-body { background: #9cb8b3; }
+body { background: #9cb8b3;}
 
 h1 {
     font: 600 1.5em/1 'Raleway', sans-serif;
-    color: #f88379;
+    color: #efedce;
     text-align: center;
     text-shadow:
-	-1px -1px 0 #efedce,
-	1px -1px 0 #efedce,
-	-1px 1px 0 #efedce,
-	1px 1px 0 #efedce;
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
     text-transform: uppercase;
-    letter-spacing: .5em;
+    letter-spacing: .25em;
     position: absolute;
     top: 25%;
     width: 100%;
+    
+
+
 }
 
 span, span:after {
